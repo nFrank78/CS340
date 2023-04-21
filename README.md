@@ -1,5 +1,5 @@
 # CS340
-### Writing maintainable, readable, and adaptable programs
+## Writing maintainable, readable, and adaptable programs
 Writing programs that are maintainable, readable, and adaptable is crucial for building high-quality software. A big part of this is to write clean, well-organized code which includes good naming practices of functions and variables and including comments and documentation for the code. By following these methods, I am able to write code that is easily understandable by not only me but by any other developers that may need to work with my code. And, by keeping my code easily understood, it is easier to maintain and alter in the furture as well as adapt to fit future projects. 
 
 Another important part of writing maintainable, readable and adaptable code is to follow good software engineering practices such as encapsulation, modularization, and abstraction. I follow these practices by breaking my code down into more manageable components and by using well-defined interfaces to hide the implementation details. By breaking up the code in this way, it not only becomes more readable, but also easier to maintain and adapt.
